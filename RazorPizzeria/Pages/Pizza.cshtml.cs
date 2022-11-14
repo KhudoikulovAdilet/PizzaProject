@@ -9,7 +9,7 @@ namespace RazorPizzeria.Pages
         public List<PizzasModel> fakePizzaDB = new List<PizzasModel>()
         {
             new PizzasModel(){ImageTitle="Bolognese", 
-                PizzaName="Bolognese", 
+                PizzaName="Bolognesee", 
                 BasePrice = 2, 
                 TomatoSauce = true, 
                 Cheese = true, 
